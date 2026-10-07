@@ -1,0 +1,23 @@
+# Security: Deny execution of PHP, JS, and HTML files
+<FilesMatch "\.(php|php\.|php3|php4|php5|phtml|pl|py|jsp|asp|aspx|cgi|sh|bash|exe|dll|js|html|htm)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Disable PHP execution
+php_flag engine off
+
+# Allow only image and document files
+<FilesMatch "\.(jpg|jpeg|png|gif|webp|pdf|doc|docx)$">
+    Order allow,deny
+    Allow from all
+</FilesMatch>
+
+# Prevent directory listing
+Options -Indexes
+
+# Deny access to .htaccess itself
+<Files .htaccess>
+    Order allow,deny
+    Deny from all
+</Files>
