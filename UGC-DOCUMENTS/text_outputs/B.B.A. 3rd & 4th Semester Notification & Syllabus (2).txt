@@ -1,0 +1,1680 @@
+Curriculum Framework for Undergraduate Program of
+University of Mysore
+
+Bachelor of Business Administration (BBA)
+
+SEP Syllabus for III & IV Semester from the Academic
+Year 2025 - 2026
+
+III SEMESTER
+Sl.
+No.
+01
+02
+03
+04
+
+Course
+Code
+Lang3.1
+Lang3.2
+Major3.1
+Major3.2
+
+Title of the Course
+
+Language-I
+Language–II
+Cost Accounting
+Business Statistics II
+Business
+05 Major3.3
+Environment
+Entrepreneurship
+06 Elective 3.4
+and Startup
+Ecosystem
+Banking and
+07 Elective 3.5 Financial Services /
+Digital Marketing
+Sub–Total (C)
+
+Page 1 of 32
+
+Credits
+
+C1
+
+C2 C3
+
+3
+3
+5
+5
+
+10
+10
+10
+10
+
+10
+10
+10
+10
+
+80
+80
+80
+80
+
+Total
+Marks
+100
+100
+100
+100
+
+5
+
+10
+
+10
+
+80
+
+100
+
+3
+
+10
+
+10
+
+80
+
+100
+
+3
+
+10
+
+10
+
+80
+
+100
+
+27
+
+700
+
+Name of the Program: Bachelor of Business Administration (BBA)
+Course Code: BBA 3.1
+Name of the Course: Cost Accounting
+Course Credits
+
+No. of Hours per Week
+
+Total No. of Teaching Hours
+
+05
+
+05
+
+68
+
+Pedagogy: Classrooms lecture, Case studies, Tutorial Classes, Group discussion, Seminar&
+field work etc.,
+Course Outcomes: On successful completion of the course, the students will –
+1. Be able to demonstrate an understanding of the elements of cost and prepare a cost
+sheet.
+2. Be able to prepare material related documents, understand the management of stores
+and issue procedures.
+3. Develop the ability to calculate Employee costs.
+4. Able to classify, allocate apportion overheads and calculate overhead absorption rates.
+5. Understand and reconcile cost and financial accounts.
+Syllabus:
+
+Hours
+
+Module No. 1: Introduction to Cost Accounting
+
+14
+
+Introduction: Meaning, Objectives, Importance and Uses of Cost Accounting, Functions of
+Cost Accounting, Department in an Organization, Difference between Cost Accounting and
+Financial Accounting; Various elements of Cost and Classification of Cost; Cost Object, Cost
+Unit, Cost Driver, Responsibility Centers; Cost Reduction and Cost Control; Methods and
+Techniques of Costing (Meanings only); Limitations of Cost Accounting; Cost Sheet: Meaning
+and Cost Heads in a Cost Sheet, Presentation of Cost information in Cost Sheet/StatementProblems on Cost Sheet, Tenders and Quotations.
+Module No. 2: Materials Cost
+
+12
+
+Materials: Meaning, importance, and types of materials. Procedure for procurement of
+materials and documentation: bill of materials, material requisition note, purchase requisition
+note, purchase order, and goods received note. Material storage and records: Duties of
+storekeeper and store records – bin cards, stores ledger. Material issues and valuation: Material
+requisition note, material transfer note, and materials return note. Pricing of material issues:
+Preparation of stores ledger using FIFO, LIFO, Simple Average, and Weighted Average
+
+Page 2 of 32
+
+methods. Inventory control techniques: Determination of various stock levels, EOQ
+(problems). ABC analysis, FSN, VED, and HML techniques (concepts only).
+Module No. 3: Employee Cost
+
+11
+
+Meaning, Components and Classification; Attendance Procedures; Idle Time – Causes and
+Treatment (Normal vs. Abnormal); Overtime – Causes and Accounting Treatment.
+Remuneration Systems: Time Rate Systems: Straight Time, Halsey, Rowan (Problems); Piece
+Rate Systems: Straight Piece Rate, Taylor’s Differential (Problems). Employee Turnover:
+Reasons, Effects, and Cost Implications.
+Module No. 4: Overheads
+
+13
+
+Overheads: Meaning and Classification of Overheads; Accounting and Control of
+Manufacturing Overheads: Estimation and Collection, Cost allocation, Apportionment, Reapportionment and Absorption of Manufacturing Overheads; Problems on Primary and
+Secondary distribution and Secondary distribution using Reciprocal Service Methods only.
+Absorption of overheads: Meaning and Methods of Absorption of overheads; Problems on
+Machine hour rate.
+Module No. 5: Contract, Process and Service Costing
+
+08
+
+Process Costing: Features, Applications, and Process Flow; Accounting for Normal and
+Abnormal Losses; Process Accounts (Simple Problems).
+Contract and Service Costing: Meaning, Objectives, and Features; Difference between
+Contract and Process Costing.
+Module No. 6: Reconciliation of Cost and Financial Accounts
+
+10
+
+Reasons for differences in Profits under Financial and Cost Accounts; Procedure for
+Reconciliation –Ascertainment of Profits as per Financial Accounts and Cost Accounts and
+Reconciliation of Profits of both sets of Accounts – Preparation of Reconciliation Statement –
+Problems.
+Skill Developments Activities:
+ Prepare a Cost Sheet with imaginary figures.
+ List the documents required in Inventory Management.
+Page 3 of 32
+
+ Demonstrate the valuation of inventory using any one method of pricing material issues.
+ Calculate the amount of Wages under Halsey / Rowan Plans, using imaginary data.
+Books for Reference:
+1. Jain and Narang, Cost Accounting, Kalyani Publication House.
+2. M.N Arora, Cost Accounting , HPH
+3. N.K. Prasad, Cost Accounting, Books Syndicate Pvt. Ltd.
+4. Dr. V Rajeshkumar, Dr. R K Srikanth, Cost Accounting, MH India
+5. P V Ratnam, Cost Accounting, KitabMahal
+6. P C Tulsian, Cost Accounting, MHE India
+7. Nigam & Sharma, Cost Accounting, HPH
+8. Dr. B. Mariyappa, Cost Accounting, HPH
+9. Khanna, Ahuja&Pandey, Practical Costing, S Chand & Co. Ltd.
+10. B.S. Raman, Cost Accounting, United Publisher
+11. Ravi M. Kishore, Cost Management, Taxmann Note: Latest edition of text books may
+be used.
+Note: Latest edition of reference books may be used.
+
+Page 4 of 32
+
+Name of the Program: Bachelor of Business Administration (BBA)
+Course Code: BBA 3.2
+Name of the Course: Business Statistics II
+Course Credits
+
+No. of Hours per Week
+
+Total No. of Teaching Hours
+
+05
+
+05
+
+68
+
+Pedagogy: Classrooms lecture, Case studies, Tutorial Classes, Group discussion, Seminar&
+field work etc.,
+Learning Outcomes: On successful completion of the course, the students will be able
+to:
+ Apply time series and index number methods to real-world business forecasting.
+ Use probability distributions to model and analyze business risks.
+ Formulate and solve optimization problems using linear programming.
+ Make rational decisions using decision theory under risk and uncertainty.
+Syllabus:
+
+Hours
+
+MODULE1: TIME SERIES ANALYSIS
+
+10
+
+Meaning and Components: Trend, Seasonal, Cyclical, Irregular. Methods of Measuring
+Trend: Freehand Method, Semi Average Method, Moving Averages, Least Squares Method
+(Linear Trend) - Business Applications: Forecasting sales, prices etc.
+MODULE 2: INDEX NUMBERS
+
+16
+
+Meaning and Uses of Index numbers in Economics and Business - Method of Construction
+of Consumer Price Index (CPI) Using Laspeyres Method and Family Budget Method - CPI
+- Inflation rate linkage - Method of Construction of Mutual Fund Index- Basic steps to define
+index's value calculation over time - Simple Problems on- Time Reversal Test (TRT) and
+Factor Reversal Test (FRT).
+MODULE 3: PROBABILITY & THEORETICAL DISTRIBUTIONS
+
+18
+
+Basic Probability Review: Permutation & Combination Concepts - Discrete Probability
+Distributions: Binomial Distribution, Poisson- Properties & Applications; Continuous
+Distribution: Normal Distribution- Properties & Applications.
+MODULE 4: LINEAR PROGRAMMING TECHNIQUE (LLP)
+
+12
+
+Introduction to Quantitative Techniques. Linear Programming (Graphical Method) Problems
+on two decision variables Applications in Product Mix, Resource Allocation.
+
+Page 5 of 32
+
+MODULE 5: STATISTICAL DECISION THEORY
+
+12
+
+Decision Making Process: Decision making under Certainty and Uncertainty – mini–max,
+maxi-min, laplace, hurwicz’s criterion- expected opportunity loss criterion- Decision Tree
+(explanation of basic diagram) and simple problems.
+Skill Development Activities:
+1)
+
+Collect weekly prices from local markets, plot trends using Freehand/ semi-average
+/moving average methods, predict next month's prices using the linear trend method.
+
+2)
+
+Observefew Indices built by National Statistics Office, CRISIL and ICRA,
+NSE/BSE. Make note of what these indices track.
+
+3)
+
+Find the meaning of the terms Base shifting, Splicing, Deflating.
+
+4)
+
+Students can choose a basket of essential goods (e.g., rice, lentils, cooking oil) and
+track their prices over two time periods. They can then calculate a simple price index.
+
+5)
+
+Creata basket of commonly purchased items (milk, bread, vegetables, transport cost
+etc) and track their prices. Compare the challenges in defining the basket.
+
+6)
+
+Introduce the concept of a Mutual Fund Index (e.g., Nifty 50). Provide simplified
+data points for a hypothetical mutual fund index over time.
+
+7)
+
+Conduct a “coin toss” experiment over multiple rounds and record outcomes and plot
+binomial probability distribution. Connect to decision-making under uncertainty
+(e.g., sales campaign success).
+
+8)
+
+Collect bus frequency data from local bus stand or use dummy data. Model the
+number of buses arriving per hour using Poisson distribution.
+
+9)
+
+Students conduct a basic height or weight survey of classmates. Plot data and
+compare to a bell curve.
+
+10) In Rural Context - A farmer has limited land and water. What crop mix (rice,
+sugarcane, ragi) gives the best yield ? Students formulate constraints and solve using
+the graphical method.
+11) Urban Context - Hypothetical problem: Small urban business (e.g., juice shop) must
+decide quantities of juice to produce (orange, mango, lemon) with limited
+ingredients.Students create constraints (sugar, water, storage) and optimize profit.
+
+Page 6 of 32
+
+12) Students explain the terms Certainity, Risk and Uncertainity to the level of a 5 th class
+student, to a 10th class student and a PUC student.
+
+Students relate to the
+
+analogies shared.
+13) Students bring a real-life business dilemma, use a decision tree diagram to analyze
+outcomes under different market conditions.
+Books for Reference:
+1) NCERT/State Board-based reference materials for base-level reinforcement.
+2) “Fundamentals of Statistics”– S.C. Gupta Himalaya Publishing House Wellexplained theory with business applications. Suitable for Indian curriculum (UG
+level).
+3) “Business Statistics”– R.S.N. Pillai&Bhagavathi, Publisher: S. Chand Studentfriendly language with lots of solved problems. Good balance of concepts and
+practice.
+4) “Statistical Methods”– S.P. Gupta, Sultan Chand & Sons Comprehensive coverage
+with emphasis on interpretation. Commonly prescribed in Indian universities.
+5) “Statistics for Management”– Richard Levin & David Rubin, Pearson Education
+Global perspective, ideal for deeper understanding and MBA prep. Application-rich,
+slightly advanced.
+6) “Quantitative Techniques for Managerial Decisions”– U.K. Srivastava, G.V. Shenoy,
+and S.C. Sharma, New Age International. Trusted Indian textbook, focused on LPP,
+Transportation, Assignment, etc. Step-by-step approach.
+7) Supplementary Videos and Open Educational Resources (OERs).
+Note: Latest edition of reference books may be used.
+
+Page 7 of 32
+
+Name of the Program: Bachelor of Business Administration (BBA)
+Course Code: BBA 3.3
+Name of the Course: Business Environment
+Course Credits
+
+No. of Hours per Week
+
+Total No. of Teaching Hours
+
+05
+
+05
+
+68
+
+Pedagogy:Classroomslecture,Casestudies,TutorialClasses,Groupdiscussion,Seminar& field
+work etc.,
+CourseOutcomes:Onsuccessfulcompletionofthecourse,thestudentswillbeableto:
+ Identify and explain key internal and external factors that affect business operations.
+ Analyze the business environment using the PESTLE framework.
+ Apply basic environmental scanning tools to real-world national and local business
+scenarios.
+Syllabus:
+
+Hours
+
+Module 1: Introduction to Business Environment
+
+10
+
+Definition, Nature, and Scope of Business Environment - Importance of studying the
+business environment - Internal vs. External Environment, factors affecting Micro and
+Macro environment - Types of Business (Private, Public, Joint Sector, MSMEs, PPPs, OPC)
+– Environmental Scanning Tools (concepts only) Role of business in economic development.
+Module 2: Economic Environment
+
+12
+
+Introduction to Economic systems - Basic understanding of structure and features of Indian
+Economy. Meaning of Economic growth and development - Banking structure in India
+(overview only) - Economic Planning in India (brief overview) - Simplified explanationsinflation, GDP, exchange rates, per capita income, population growth rate – their impact on
+business decisions. Fiscal Policy and Monitory policy – (Introduction only).
+Module 3: Political Environment and Legal Environment
+
+16
+
+Brief Introduction to Political institutions; Legislature- Executive- Judiciary - The
+Constitution of India; Role of central and state governments in business and extent of state
+intervention in business. EXIM policy and industrial policy - Introduction to government
+schemes for business (e.g., Start-Up India, Make in India, PMEGP, PMMY, Credit
+Guarantee Scheme for start ups, PLI Schemes). Meaning of Political stability/instability.
+Legal Environment (Overview only); Companies Act, Consumer Protection Act, Minimum
+Wage Act, The Factories Act, EPF Act, The Trade Union Act, The child Labour (prohibition
+Page 8 of 32
+
+and Regulation Act) , IPR laws, The weights and Measurement Act, Competition Act,
+FEMA.
+Module 4: Social and Cultural Environment
+
+08
+
+Business and society (social values and attitudes) - culture, demographic factors - workforce
+diversity - Family system, linguistics, types of social organizations. Impact of literacy,
+education, and urbanization - role of women in business and employment, Social
+Responsibility of Business – Impact of social and cultural environment on business.
+Module 5: Technological Environment & Natural Environment
+
+10
+
+Technological Environment: Meaning, features, types of technology, transfer of technology
+- Impact of technological implementation in business – Information technology Act
+(concepts only).
+Natural environment: Meaning and influence of natural environment on business –
+sustainable development initiatives (Key areas) – pollution agents – environment enactments
+(Concepts only): The Environment (Protection) Act, the Water (Prevention and Control of
+Pollution) Act, the Air (Prevention and Control of Pollution) Act.
+Skill Development Activities :
+1. Weekly News Analysis with PESTLE Lens:
+Students select news articles from college library or online news sources affecting
+businesses and categorize the factors under PESTLE headings. These factors can be
+recorded in skill record book with newspaper cut outs or mentioning the brief content,
+date and source from online news websites/IBEF website.
+2. Seminar on any one from PESTLE Framework.
+3. Role Play (continuous class activity) - Few students coming to India from a foreign
+country with a vision to set up a business in India and their observation of PESTLE
+factors.
+4. Policy Impact Project: In pairs, students pick a government scheme (e.g., PMEGP or
+Make in India) and explain its benefits/challenges for a local or regional business.
+5. A seminar on ‘Global Investors Meet’ held in Karnataka.
+6. Debate: Topics for instance as given below
+a) “Is political stability more important than economic policy for business growth?”
+b) “Should businesses invest in eco-friendly technology?”
+
+Page 9 of 32
+
+c) Which businesses flourish or perish due to the influence of western culture?
+d) “Should more PPPs be introduced in rural infrastructure?”
+
+7. Enact small skits to legal laws in India pertaining to business arena.
+8. Demonstrate rights/responsibilities through creative media.
+9. Case - Social Entrepreneurship in Karnataka.
+10. Map-pointing Special Economic Zones and Tech-Parks in Karnataka.
+Books for Reference:
+1. Cherunilam, F. (2020). Business environment (23rd ed.). Himalaya Publishing
+House.
+2. Paul, J. (2014). Business environment: Text and cases (3rd ed.). McGraw Hill
+Education.
+3. Adhikari, M. (2011). Economic environment of business (11th ed.). Sultan Chand &
+Sons.
+4. Aswathappa, K. (2021). Essentials of business environment (14th ed.). Himalaya
+Publishing House.
+5. Gupta, C. B. (2019). Business and government (2nd ed.). Sultan Chand & Sons.
+6. Sinha, V. C. (2022). Business environment for BBA (1st ed.). SBPD Publishing
+House
+Note: Latest edition of reference books may be used.
+
+Page 10 of 32
+
+Name of the Program: Bachelor of Business Administration(BBA)
+Course Code: BBA 3.4
+Name of the Course: Entrepreneurship and Start-up Eco System
+Course Credits
+
+No. of Hours per Week
+
+Total No. of Teaching Hours
+
+03 Credits
+
+03 hours
+
+45 hours
+
+Pedagogy:Classroomslecture,Casestudies,TutorialClasses,Groupdiscussion,Seminar& field
+work etc.,
+CourseOutcomes:Onsuccessfulcompletionofthecourse,thestudentswillbeableto:
+1. Explain the fundamental concepts and significance of entrepreneurship in the
+economic and social context.
+2. Identify viable business ideas and translate them into structured business models and
+plans.
+3. Demonstrate knowledge of the Indian startup ecosystem and institutional support
+available for entrepreneurs.
+4. Explain strategies for growth, innovation, and sustainability in a startup environment.
+5. Develop an entrepreneurial mindset equipped with critical thinking, innovation, and
+ethical business practices.
+Syllabus:
+
+Hours
+
+Module No. 1: Introduction to Entrepreneurship
+
+10
+
+Meaning, concept, and evolution of entrepreneurship – Characteristics, Danhof’s
+classification of entrepreneurship, types of entrepreneurs (e.g., social, serial, tech-based) –
+Entrepreneurial motivation and mindset – Role of entrepreneurship in economic
+development – Women and rural entrepreneurship. Special Financial assistance for Women
+Entrepreneur, Enterpreneur Vs Intrapreneur.
+Module No. 2: Developing a Business Idea & Business Model
+
+12
+
+Idea generation techniques and opportunity evaluation – industry analysis tools (SWOT,
+PESTLE, Porter’s five forces). Business plan (Need for a business plan, Basic Components
+and steps in preparation) – Introduction to business models; Types of business models
+(Concepts only with examples): Product-based Business Model, Service-based model,
+Subscription model, Freemium model, Marketplace model, Aggregator model, Franchise
+model, Razor and Blade model – Business Model Canvas (BMC) framework (Explanation
+of the elements only)
+Page 11 of 32
+
+Module No. 3: Startup Ecosystem in India and Support Mechanisms
+
+12
+
+Definition and elements of a startup ecosystem – Overview of Indian startup policy and
+ecosystem (Startup India, Atal Innovation Mission, incubators, accelerators) – Role of
+government, academic and research institutions, and private sector in startup ecosystem –
+Institutional
+
+support
+
+NIMSME,
+
+PMEGP,
+
+DICs,
+
+KVIC,
+
+SIDBI
+
+(technical/training/finance/marketing) – Institutional support in Karnataka: Objectives and
+functions of Centre for Entrepreneurship Development of Karnataka (CEDOK) and Rajiv
+Gandhi Entrepreneurship Programme (RGEP) – Legal basics for startups (entity formation,
+registrations) – Taxation benefits.
+Module No. 4: MSME Act
+
+10
+
+Evolution of MSME policy in India – Definition and Classification (Micro, Small, Medium)
+as per latest amendments – Salient features of the Act – Udyam Registration – process and
+benefits; Priority sector lending and collateral-free loans – Atmanirbhar Bharat package for
+MSMEs, – MSME SAMADHAAN, SAMARTH, CHAMPIONS (Concepts only) – Skill
+development and cluster development initiatives (Key aspects only) – Technology and
+infrastructure assistance (Key schemes only)
+Skill Development Activities:
+1. Entrepreneur Persona Profile: Students create a presentation on an Indian
+entrepreneur (local or regional or national) covering their journey & challenges.
+2. In teams, students brainstorm a startup idea and develop a full Business Model
+Canvas and present it to the class.
+3. Each student maps the local/national startup ecosystem by listing 5 incubators,
+government schemes, funding platforms, and one legal procedure for company
+registration in India.
+4. Collect information schemes and initiatives from the official website of Ministry for
+skill development and entrepreneurship.
+5. Visit to a local startup/incubator/co-working space of two or more business and
+record the startup journey/institutional support they received.
+6. Students role-play startup founders and simulate decision-making at various growth
+stages (e.g., choosing between business lines, managing a team crisis, or scaling to a
+new city).
+7. Each student selects one failed Indian startup and prepares a short report on reasons
+for failure.
+
+Page 12 of 32
+
+8. Group discussion on types of business model.
+9. Students collect information on a large scale business’s and its interdependence on
+medium and small scale enterprises.
+10. Students collect information on the contribution of MSMEs to GDP, exports, and
+employment in India.
+11. Students collect information on the classification criteria of MSME as per latest
+amendments to the MSME Act.
+12. Discussion on the shark tank India – Television series
+Indian Context– Startup Success Stories
+Author /
+
+Book Title
+
+Key Focus / Highlights
+
+Publisher
+
+Stories of 25 IIM-A alumni who
+
+Stay Hungry Stay Foolish
+
+Rashmi Bansal
+
+Connect the Dots
+
+Rashmi Bansal
+
+Dream with Your Eyes Open
+
+Ronnie Screwvala
+
+became entrepreneurs.
+Stories of entrepreneurs without
+formal MBA degrees.
+Memoir of building UTV and
+lessons in building an enterprise.
+
+Startup India: Real Stories of Nikhil Inamdar / Real journeys of founders from
+12 Game Changers
+
+HarperCollins
+
+Paytm, Zomato, etc.
+
+How I Braved Anu Aunty and
+
+Personal story told humorously;
+
+Co-Founded a Million Dollar Varun Agarwal
+
+relatable for young Indians.
+
+Company
+The Golden Tap
+
+Boiling Frogs
+The Big Billion Startup: The
+Untold Flipkart Story
+
+Insights
+
+Kashyap Deorah
+
+into
+
+Indian
+
+startup
+
+ecosystem and VC culture.
+
+Veerachamy
+
+Collection of real startup case
+
+&Veena
+
+studies from India.
+Investigative story of Flipkart’s
+
+Mihir Dalal
+
+rise, culture, and investor relations.
+
+Books for Reference:
+1. Entrepreneurship Development
+
+by S.S.
+
+Khanka
+
+– S. Chand Publishing,
+
+and
+
+Entrepreneurship by Rajeev Roy – Oxford University Press. Suggested references for Basics
+of Entrepreneurship, Types, Role in Economy. Entrepreneurship Development by Dr. C.B.
+
+Page 13 of 32
+
+Gupta and Dr. S.S. Khanka – Sultan Chand & Sons.
+
+Suggested reference for Idea
+
+Generation, Feasibility Study
+2. Entrepreneurship: Theory and Practice by Ramesh S. Arunachalam – Himalaya Publishing
+House. Suggested reference for Entrepreneurial Motivation & Mindset.
+3. Entrepreneurship Development in India by DebasishBiswas – Himalaya Publishing House.
+Focused on Women and Rural Entrepreneurship.
+4. Business Model Generation by Alexander Osterwalder& Yves Pigneur – Wiley India
+5. New Venture Creation: Entrepreneurship for the 21st Century by Jeffry A. Timmons –
+McGraw-Hill. Suggested reference for Business Plan Preparation.
+6. Entrepreneurship and Small Business by P. Saravanavel – Himalaya Publishing House.
+Startup India, Incubation, Govt. Schemes
+7. Legal Aspects of Business by Ravinder Kumar – Cengage Learning (Indian Edition). Legal
+& Regulatory Framework
+8. Startup India: The Smart Way by Nalin Singh – Pentagon Press. Funding Options, Startup
+Finance.
+9. MSME Laws in India: Dr. R.K. Gupta, Bharat Law House. Covers the MSME Act, 2006
+with all major amendments (including 2020 & 2022).
+10. Legal Aspects of Business: AkhileshwarPathak, McGraw Hill Education. Covers legal
+basics such as entity formation (LLP, Pvt Ltd, Sole Proprietorship), registrations, and
+contract laws. Includes sections relevant to startups and compliance.
+11. Small Business and Entrepreneurship: Vasant Desai, Himalaya Publishing House. Focus on
+MSMEs, financial assistance, institutional framework. Includes real Indian case studies and
+schemes like RGEP, PMEGP.
+12. Website : https://msme.gov.in/
+http://www.cedok.karnataka.gov.in
+
+Note: Latest edition of reference books may be used.
+
+Page 14 of 32
+
+Name of the Program: Bachelor of Business Administration(BBA)
+Course Code: BBA 3.5.1
+Name of the Course: Banking and Financial Services
+Course Credits
+
+No. of Hours per Week
+
+Total No. of Teaching Hours
+
+03
+
+03
+
+45
+
+Pedagogy:Classroomslecture,Casestudies,TutorialClasses,Groupdiscussion,Seminar& field
+work etc.,
+CourseOutcomes:Onsuccessfulcompletionofthecourse,thestudentswillbeableto:
+
+
+Understand the financial system, Institutions, financial markets and services.
+
+
+
+Analyse the concepts relevant to Indian financial market and relevance.
+
+
+
+Understand concept of financial services, types and functions.
+
+
+
+Understand the types of financial Instruments.
+
+
+
+Demonstrate an understanding the functioning of stock markets.
+
+Syllabus:
+
+Hours
+
+Module No. 1: Introduction to Banking and Financial System
+
+08
+
+Meaning and importance of banking and financial services; Evolution of banking in India;
+Types of banks: Commercial, cooperative, regional rural, payment banks, small finance
+banks, and neo-banks; Functions of banks: Accepting deposits, lending, agency and utility
+services; Credit creation by commercial banks: Process, limitations, and significance;
+Structure of Indian financial system: Banking, non-banking, insurance, and capital market
+institutions; Role of RBI and other financial regulators (SEBI, IRDAI, PFRDA)
+Module No. 2: Financial Markets
+
+14
+
+Classification of financial markets: Money market and capital market; Primary and
+secondary markets: Features and functions; Money market instruments: Treasury bills,
+commercial papers, certificates of deposit, call money; Capital market instruments: Equity
+shares, debentures, bonds, preference shares; Stock exchanges in India: NSE, BSE –
+functions and trading process; Market intermediaries: Stockbrokers, depositories (NSDL,
+CDSL), and clearing corporations.
+Module No. 3: Financial Services
+
+10
+
+Overview and scope of financial services; Mutual funds: Types, structure, NAV, benefits;
+Credit rating agencies: CRISIL, ICRA, CARE – role and importance; Leasing and hire
+purchase: Meaning, types, advantages; Factoring and forfaiting: Features and mechanism;
+
+Page 15 of 32
+
+Merchant banking: Functions and role in capital markets; Venture capital and private equity:
+Meaning, stages, and exit strategies.
+Module No. 4:Emerging Trends in Banking and Financial Services
+
+13
+
+Digital banking: Internet banking, mobile banking, UPI, NEFT, RTGS, IMPS; Fintech
+innovations: Digital wallets, Aadhaar-enabled payment systems, crowdfunding, P2P
+lending; Artificial Intelligence and Blockchain in banking and finance; Risk management in
+banks: Types of risks (credit, market, operational) and Basel norms; Financial inclusion:
+Government initiatives – Jan DhanYojana, DBT, microfinance Current developments in
+Indian banking and financial markets.
+Skill Development Activities:
+1. Visit a commercial or cooperative bank and submit a report on services offered,
+customer handling, and technology used.
+2. Use platforms like Moneybhai or Investopedia to simulate stock and mutual fund
+trading.
+3. Compare 3 mutual fund schemes based on type, NAV, returns, and risk level.
+4. Create a diagram/flowchart explaining the process and impact of credit creation by
+commercial banks.
+5. Students act as RBI and commercial bank officials to discuss interest rates and money
+supply decisions.
+6. Analyze a digital banking app (e.g., YONO, Paytm Bank) for usability, features, and
+security.
+7. Research a fintech company and present its services, innovation, and impact on
+traditional banking.
+8. Analyze a company’s credit rating report from CRISIL/ICRA and present the key
+factors behind the rating.
+9. Role-play an international trade scenario involving an exporter, importer, and a
+financial intermediary.
+10. Conduct a field survey on awareness and use of Jan DhanYojana, DBT, or
+microfinance in your local area and present findings.
+Books for Reference:
+1. ThummuluriSiddaiah, Financial Services, Pearson Publications
+2. M. Bhole, Financial Institutions & Markets, McGraw Hill
+3. Khan, M.Y, Indian Financial System, McGraw Hill
+
+Page 16 of 32
+
+4. Sharma, Meera, Management of Financial Institutions, Eastern Economy Edition
+5. Bhole and Mahakud, Financial Institutions and Markets – Structure, Growth and
+Innovations, McGraw Hill
+6. Guruswamy, S., Financial Services and System, McGraw Hill
+7. Edminister. R.O, Financial Institutions, Markets & Management, McGraw Hill
+8. Khan. M.Y, Indian Financial System, Vikas Pub. House
+9. H.R Machiraju, Indian Financial System, Vikas Pub. House
+10. E.Gorden& K. Nataraj, Financial Markets and Services, HPH
+Note: Latest edition of reference books may be used.
+
+Page 17 of 32
+
+Name of the Program: Bachelor of Business Administration (BBA)
+Course Code: BBA 3.5.2
+Name of the Course: Digital Marketing
+Course Credits
+
+No. of Hours per Week
+
+Total No. of Teaching Hours
+
+03
+
+03
+
+45
+
+Pedagogy:Classroomslecture,Casestudies,TutorialClasses,Groupdiscussion,Seminar& field
+work etc.,
+CourseOutcomes:Onsuccessfulcompletionofthecourse,thestudentswillbeableto
+a) Gain knowledge on Digital Marketing and strategies.
+b) Practically apply the Email and Content marketing.
+c) Practically use Social Media Marketing and Web Analytics.
+d) Gain knowledge on YouTube Advertising & Conversions.
+Syllabus:
+
+Hours
+
+Module No.1:IntroductiontoDigitalMarketing
+
+08
+
+Introduction, Overview of digital marketing, Evolution of digital marketing, Importance
+and benefits of digital marketing, Digital marketing channels and platforms.
+Digital Marketing Strategy and Planning: Developing a digital marketing strategy, Setting
+goals and objectives, Budgeting and resource allocation. Campaign planning and execution,
+Monitoring and adjusting digital marketing campaigns.
+Module No.2:Email and Content Marketing
+
+09
+
+Introduction to email marketing, Building an email list, Creating effective email campaigns,
+Email automation and segmentation, Email marketing metrics and analytics.
+Content Marketing: Understanding content marketing, Content strategy and planning,
+Content creation and distribution, Content promotion and amplification, Content marketing
+metrics and analytics.
+Module No. 3: Social Media Marketing(SMM)
+
+09
+
+Social Media Marketing: Overview of social media marketing, Social media platforms and
+their features, Creating and optimizing social media profiles, Social media content strategy,
+Social media advertising and analytics.
+Mobile Marketing: Mobile marketing overview, Mobile advertising strategies, Mobile app
+marketing, Location-based marketing, Mobile marketing analytics.
+
+Page 18 of 32
+
+Module No.4: WebAnalytics
+
+11
+
+Analytics and Reporting: Importance of analytics in digital marketing, Setting up web
+analytics tools (e.g., Google Analytics), Tracking and measuring key performance indicators
+(KPIs), Conversion tracking and optimization, Reporting and data visualization.
+YouTube Advertising (Video Ads): YouTube advertising, its usages, Creating YouTube
+campaigns, Choose the audience for video ads, Instream ads, Invideo ads, In-searchads, Indisplayads, Measuring your YouTube ad performance. Conversions brief overview.
+Skill Developments Activities:
+1. Explain the key digital marketing activities needed for competitive success.
+2. Examine the concept of Digital Media and benefits to be derived.
+3. Recognise the core features of CRM and retention programmes
+4. Identify the metrics used in digital marketing.
+5. Organise how we can limit the marketing materials we get through e-mail.
+Books for Reference:
+1. Understanding DIGITAL Marketing, Marketing strategies for engaging the digital
+generation by Damian Ryan & Calvin Jones.
+2. The Art of Digital Marketing: The Definitive Guide to Creating Strategic By
+IanDodson
+3. Internet Marketing: A practical approach By Alan Charlesworth
+4. Social Media Marketing: A Strategic Approach By Melissa Barker, DonaldI. Barker,
+Nicholas F.Bormann, KristaENeher
+5. "Mobile Marketing: How Mobile Technology is Revolutionizing Marketing,
+Communications and Advertising" by Daniel Rowles
+Note: Latest edition of reference books may be used.
+
+Page 19 of 32
+
+IV SEMESTER
+Sl.
+No.
+08
+09
+
+Course
+Code
+Lang4.1
+Lang4.2
+
+10
+
+Major4.1
+
+11
+
+Major4.2
+
+12
+
+Major4.3
+
+13
+
+Elective
+4.4
+
+3
+3
+
+10
+10
+
+10
+10
+
+Total
+Marks
+80
+100
+80
+100
+
+5
+
+10
+
+10
+
+80
+
+100
+
+5
+
+10
+
+10
+
+80
+
+100
+
+5
+
+10
+
+10
+
+80
+
+100
+
+3
+
+10
+
+10
+
+80
+
+100
+
+3
+
+10
+
+10
+
+80
+
+100
+
+Title of the Course Credits C1
+
+C2 C3
+
+Language-I
+Language–II
+Financial
+Management
+Human Resource
+Management
+Management
+Accounting
+Logistics and
+Supply Chain
+Management /
+Business Analytics
+
+Skill
+Information
+Enhancem
+14
+Technology For
+ent
+Business
+Course 4.5
+Sub Total (D)
+
+Page 20 of 32
+
+27
+
+700
+
+Name of the Program: Bachelor of Business Administration(BBA)
+Course Code: BBA 4.1
+Name of the Course: Financial Management
+Course Credits
+
+No. of Hours per Week
+
+Total No. of Teaching Hours
+
+05
+
+05
+
+68
+
+Pedagogy:Classroomslecture,Casestudies,TutorialClasses,Groupdiscussion,Seminar& field
+work etc.,
+Course Outcomes: On successful completion of the course, the Students will able:
+ To identify the goals of financial management.
+ To apply the concepts of time value of money for financial decision making.
+ To evaluate projects using capital budgeting techniques.
+ To design optimum capital structure using EBIT and EPS analysis.
+ To evaluate working capital effectiveness in an organization.
+Syllabus:
+
+Hours
+
+Module 1:Introduction to Financial Management
+
+10
+
+Introduction – Meaning of Finance, Business Finance, Finance Functions, Organization
+structure of Finance Department; Financial Management – Goals of Financial Management,
+Financial Decisions-Types of Financial Decisions, Role of a Financial Manager; Financial
+Planning – Principles of Sound Financial Planning, Steps in Financial Planning, Factors
+influencing a Sound Financial Plan.
+Module 2: Time Value Of Money
+
+10
+
+Time Value Of Money: Introduction to time value of money, Meaning & Definition of Future
+Value (Single Flow, Uneven Flow & Annuity), Present Value (Single Flow, Uneven Flow
+& Annuity). Doubling Period - Problems. Concept of Valuation - Valuation of Bonds,
+Debentures and Shares - Simple Problems.
+Module 3: Cost of Capital and Financing Decision
+
+12
+
+Cost of Capital: Meaning and Significance of Cost of Capital, Sources of Capital,
+Computation of Cost of Capital, Specific Cost: Cost of Debt, Cost of Preference Share
+Capital, Cost of Equity Share Capital; Weighted Average Cost of Capital – Problems.
+Capital Structure: Meaning of Capital Structure, Factors influencing Capital Structure,
+Optimum Capital Structure, EBIT-EPS Analysis, Leverages meaning, Types of Leverages –
+Simple Problems.
+Page 21 of 32
+
+Module No. 4: Dividend Decisions
+
+10
+
+Dividend Decision: Meaning of Dividend, factors determining dividend decision,
+Irrelevance Theory – MM Model, Relevance Theories - Walter Model - Gordon Model
+(theory only).
+Module No. 5: Capital Budgeting Decisions
+
+12
+
+Capital Budgeting: Meaning, Significance of Capital Budgeting, Capital Budgeting
+techniques: Payback period, Accounting Rate of Return, Net Present Value, Internal Rate of
+Return Profitability Index.
+Module No. 6: Working Capital Management
+
+14
+
+Introduction – Concept of Working Capital, Significance of Adequate Working Capital,
+effects of Excess or Inadequate Working Capital, Determinants of Working Capital, Sources
+of Working Capital. Estimation of working capital requirement. Concepts of Cash
+Management, Receivables Management, Inventory Management.
+Skill Developments Activities:
+ Collect the information on various types of bonds offered by government and
+record the same.
+ Identify capital structure practices followed in any firm/company of your choice.
+ Study case studies and analyze real-world capital budgeting scenarios.
+ Prepare a working capital statement using imaginary values.
+Books for Reference:
+1. I M Pandey, Financial Management. Vikas Publication.
+2. Prasanna Chandra, Financial Management, TMH
+3. S N Maheshwari, Financial Management, Sultan Chand
+4. Khan and Jain, Financial Management, TMH
+5. Dr. V Rajeshkumar and Nagaraju V, Financial management, MH India
+6. Dr. Aswathanarayana.T ,Financial Management, VBH
+7. K. Venkataramana, Financial Management, SHBP
+8. G. Sudarshan Reddy, Financial Management, HPH
+9. Sharma and Shashi Gupta, Financial Management, Kalyani Publication
+Note: Latest edition of reference books may be used.
+
+Page 22 of 32
+
+Name of the Program: Bachelor of Business Administration(BBA)
+Course Code: BBA 4.2
+Name of the Course: Human Resource Management
+Course Credits
+
+No. of Hours per Week
+
+Total No. of Teaching Hours
+
+05
+
+05
+
+68
+
+Pedagogy:Classroomslecture,Casestudies,TutorialClasses,Groupdiscussion,Seminar& field
+work etc.,
+Course Outcomes: On successful completion of the course, the Students will able:
+ To identify the goals of Human Resource Management.
+ The ability to understand the core concepts in HRM function - Entry to Exit
+ To be able to understand Recruitment and Selection, Training/HRD methods and
+performance appraisal, Compensation Structure and Separation Process.
+ To establish the link between the theoretical aspects and the recent trends in HRM in
+reality.
+Syllabus:
+
+Hours
+
+Module No. 1:Introduction to Human Resource Management
+
+10
+
+Meaning and Definition of HRM – Features Objectives, Scope, Evolution and Development
+of HRM, Differences between Human Resource Management and Personnel Management,
+Importance, Functions and Process of HRM, Structure of HRM Department.
+Module No. 2: Acquisition of Human Resources - HRP to Induction The
+entry stage
+
+12
+
+Meaning and Importance of Human Resource Planning(HRP), Process of HRP, - HR
+Demand Forecasting and HR supply forecasting, – Job Analysis: Job Description and Job
+Specification, Job Evaluation - Uses and, Process; Job Design – Job rotation, Job
+enrichment, Job enlargement (Meaning)
+Recruitment (internal & external sources, process), Selection (process, stages of selection)
+– Induction (Meaning & objectives). Terms: Resume, Curriculum Vitae, Pay-scale, Costto-the-Company (CTC) Meanings only; Recruitment Vs Selection.
+Module No. 3: Training and Development
+
+14
+
+Meaning and Importance of Training, Types of Training Needs, Training needs Analysis
+wheel by Frances and Ronald Bee (introduction to six interconnected stages)
+
+Page 23 of 32
+
+Training Methods- On-the job, and Off-the job. Succession Planning: Meaning and
+Features, Development: Meaning and concept of HRD, – Executive development –
+Introduction, meaning and definition, objectives, importance, - process of executive
+development.
+Module No. 4: Performance Appraisal,
+
+Internal Mobility and
+
+Compensation
+
+12
+
+Performance appraisal: Meaning and Definition, Objectives and Process of Performance
+Appraisal, Methods of Performance Appraisal – Uses and Limitations of Performance
+Appraisal,
+Promotion: Meaning and Definition of Promotion, Basis of Promotion, - Deputation
+(Meaning), Transfer: Meaning of Transfer, Reasons, Types, - Right Sizing of Work Force
+(Basic Concept)
+Compensation: Direct and Indirect forms of Compensation (Meaning only),-Wage and
+salary Administration - introduction, meaning, objectives, Compensation Structure.
+Module No. 5: Separation Process -The exit stage.
+Trends and challenges in HRM
+
+08
+
+Meaning, Process of separation, Types - Discharge, Retirement, Layoff, Retrenchment,
+VRS, - exit interview.
+Current trends and challenges in HRM– Overview, Recent developments and Trends
+influencing HR practices in the competitive world.
+Talent management, Employee engagement, competency mapping, workforce diversity,
+Sound IR, dual career couples, flexi-working hours, work-from home, Moon-lighting, Jobhopping, Job-poaching (Meaning only). Top job portals in India (for all employee levels)
+Skill Development Activities:
+ Draw a diagram showing the various functional departments in HRM.
+ Qualifications needed to become an HR Officer in a specific industry.
+ Identify the Job Description and Job Specification and the position of the various job
+titles from latest recruitment notifications (hard copy or soft copy) notified by various
+organizations. Label the position whether it belongs to the baseline workforce or
+supervisor level, or Low level management/Middle level/Top level.
+ Conducting Mock Selection Interviews
+ Under the guidance of the subject teacher, select few organisations and collect
+information on the types of training given by the training department to the
+
+Page 24 of 32
+
+employees of their company.
+ Under the guidance of the subject teacher collect few resumes or resume templates
+from job portals.
+ Developing a salary structure for white collar employees.
+ List the Fringe benefits available for Government and Non-government Employees
+in Indian Scenario
+ Explore the roles and responsibilities of the organisations such as Dept of Personnel
+& Training, Officers Training Academy - Gwalior & Dehradun, Apex training
+institutes of few private organisations or local training institutes.
+Books for Reference:
+ Human Resource Management-V S P Rao
+ Human Resource Management - K Ashwathappa
+ HumanResource Management -L M Prasad
+ Human Resource Management Shashi K. Gupta & Rosy Joshi
+ Human Resource Management Varshney, SL GupthaHuman Resource
+Management by PravinDurai
+Note: Latest edition of reference books may be used.
+
+Page 25 of 32
+
+Name of the Program: Bachelor of Business Administration (BBA)
+Course Code: BBA 4.3
+Name of the Course: Management Accounting
+Course Credits
+
+No. of Hours per Week
+
+Total No. of Teaching Hours
+
+05
+
+05
+
+68
+
+Pedagogy:Classroomslecture,Casestudies,TutorialClasses,Groupdiscussion,Seminar&
+
+field
+
+work etc.,
+Course Outcomes: On successful completion of the course, the Students will demonstrate:
+ Explain the application of management accounting and various tool used.
+ Make inter – firm and inter- period comparison of financial statements.
+ Analyse financial statements using various ratios for business decisions.
+ Prepare fund flow and cash flow statements.
+ Prepare different types of budgets for the business.
+Syllabus:
+
+Hours
+
+Module No. 1: Introduction to Management Accounting
+
+08
+
+Introduction- Meaning and Definition – Objectives – Nature and Scope–Functions- Role of
+Management Accountant, Relationship between Financial Accounting and Management
+Accounting, Relationship between Cost Accounting and Management Accounting, advantages
+and limitations of Management.
+Module No. 2: Financial Statement Analysis
+
+15
+
+Financial statement analysis – Meaning – Importance – Techniques: Comparative Statement
+Analysis and Common Size Financial Statements, Trend Analysis (theory only). Ratio analysis
+– Meaning of Accounting ratio– Uses and Limitations –Classification of ratios – Liquidity
+ratios, Profitability ratios, Turnover ratios, Capital Market ratios and Solvency ratios –
+Problems on ratios.
+Module No. 3: Fund Flow and Cash Flow Analysis
+
+15
+
+Meaning and importance of funds flow and cash flow statements- Concept of Cash and Cash
+Equivalents - Uses of Cash Flow Statement – Limitations of Cash Flow Statement– Differences between
+Cash Flow Statement and Fund Flow Statement – Provisions of Ind. AS-3. Procedure for preparation
+of Cash Flow Statement – Cash Flow from Operating Activities – Cash Flow from Investing Activities
+and Cash Flow from Financing Activities – Preparation of Cash Flow Statement according to Ind. AS3.
+
+Page 26 of 32
+
+Module No. 4: Marginal Costing
+
+10
+
+Introduction-Meaning and definition of marginal cost, marginal costing, features of marginal
+costing- terms used in marginal costing – P/V ratio, BEP, Margin of Safety, Angle of Incidence
+and Break-Even Chart. Break Even Analysis- assumption and uses- problems.
+Module No. 5: Budgetary Control
+
+10
+
+Meaning and Definition of Budget and Budgetary Control, objectives of budgetary control,
+advantages and limitations of budgetary control, essentials of effective budgeting, Types of
+budget-Functional budgets, Master Budget, Fixed and Flexible Budget, Problems on Flexible
+budget and Cash Budget.
+Module No. 6: Standard Costing and Variance Analysis
+
+10
+
+Meaning- Standard costing Vs Budgetary control- Merits and Demerits of Standard Costing.
+Variance analysis: Material, Labor and Overhead variances (problems)
+Skill Developments Activities:
+ Collect the financial statement of a company and calculate important ratios.
+ Collect the annual report of a company and prepare a cash flow statement.
+ Prepare a Break-even-chart with imaginary figures.
+ Prepare a flexible budget using imaginary figures.
+ Prepare a Cash budget using imaginary figures.
+ Discuss why variances occur in real businesses
+Books for Reference:
+1. Dr. S.N. Maheswari, Management Accounting, Mahavir Publications
+2. T.S.Sexana, Advanced Cost and Management Accounting, Sultan Chand
+3. Jain and Narang, Cost and Management Accounting, Kalyani Publisher.
+4. Dr. S.N. Goyal and Manmohan, Management Accounting, S.N. Publications.
+5. B.S. Raman, Management Accounting, United Publishers.
+6. Sharma and Gupta, Management Accounting, Kalyani Publishers.
+7. M N Arora, Accounting for Management, Himalaya Publisher
+8. JawaharLal, Cost Accounting; McGraw-Hill Education (India)
+Note: Latest edition of reference books may be used.
+
+Page 27 of 32
+
+Name of the Program: Bachelor of Business Administration(BBA)
+Course Code: BBA 4.4.1
+Name of the Course: Logistics and Supply Chain Management
+Course Credits
+
+No. of Hours per Week
+
+Total No. of Teaching Hours
+
+03
+
+03
+
+46
+
+Pedagogy:Classroomslecture,Casestudies,TutorialClasses,Groupdiscussion,Seminar& field
+work etc.,
+Course Outcomes: On successful completion of the course, the students will be able to
+ Understand the basic concepts in supply chain management and allied functions.
+ Analyze the escalating importance of logistics and supply-chain management as
+crucial.
+ Appraise the applications of supply chain Management to Business.
+Syllabus:
+
+Hours
+
+Module No. 1: Introduction to Logistics and Supply Chain Management
+
+10
+
+History of Logistics Need for logistics-Cost and Productivity, cost saving & Productivity
+improvement. Logistics Cost, reduction in logistics cost, benefits of efficient Logistics,
+Principles of Logistics, Technology & Logistics -Informatics, Logistics optimization. Listing
+of Sub-sectors of Logistics. Supply Chain Management: Importance, Difference between
+Logistics and supply chain management.
+Module No. 2: Logistics and Customer Service
+
+12
+
+Definition of Customer Service Elements of Customer Service-Phases in Customer ServiceCustomer Retention -Procurement and Outsourcing -Definition of Procurement/Outsourcing
+-Benefits of Logistics Outsourcing Critical Issues in Logistics Outsourcing.
+Module 3: Warehouse and Storage Facilities
+
+14
+
+Meaning, Types of Warehouses Benefits of Warehousing - Transportation-Meaning; Types
+of Transportations, efficient transportation system and Benefits of efficient transportation
+systems - Courier/Express -Courier/Express. Meaning, Categorization of Shipments, Courier
+Guidelines, Pricing in Courier -Express Sector for international and domestic shipping Ecommerce -Meaning, Brief on Fulfillment Centers, Reverse logistics in e-commerce sector,
+Marketing in e-commerce and future trends in e-commerce.
+Module 4: Transportation
+
+10
+
+Brief on EXIM-Fright Forward & Customers Brokers, Multi-modal transportation, brief on
+customs clearance, bulk load handling and brief on trans-shipment – Supply Chain – Cold
+Page 28 of 32
+
+Chain – Liquid Logistics – Rail Logistics. Logistics Outsourcing. Introduction- Concept of
+Logistics Outsourcing- Benefits-Types of logistics outsourcing-Risks involved in
+outsourcing-Role and Selection of Service Providers.
+Skill Developments Activities:
+ Identify any two products suitable for transportation via Rail, Water, Pipeline, Air,
+Motor Carriers
+ Identify the best modes of transport for textiles and spices from India to USA
+ Identify the benefits of co-location of suppliers to the company.
+Books for Reference:
+1. Logistics and supply chain management : K ShridharaBhat, Himalaya publishing
+House
+2. Fundamentals of Logistics Management (The Irwin/Mcgraw-Hill Series in
+Marketing), Douglas Lambert, James R Stock, Lisa M. Ellram, McGraw-hill/Irwin,
+First Edition, 1998.
+3. Vinod V. Sople (2009) Logistic Management (2nd Edn.) Pearson Limited.
+4. Logistics Management for International Business: Text and Cases, Sudalaimuthu&
+Anthony Raj, PHI Learning, First Edition, 2009.
+5. Fundamentals of Logistics Management, David Grant, Douglas M. Lambert, James
+R.Stock, Lisa M. Ellram, McGraw Hill Higher Education, 1997.
+Note: Latest edition of reference books may be used.
+
+Page 29 of 32
+
+Name of the Program: Bachelor of Business Administration(BBA)
+Course Code: BBA 4.4.2
+Name of the Course: Business Analytics
+Course Credits
+
+No. of Hours per Week
+
+Total No. of Teaching Hours
+
+03
+
+03
+
+45
+
+Pedagogy:Classroomslecture,Casestudies,TutorialClasses,Groupdiscussion,Seminar& field
+work etc.,
+Course Learning Outcomes: At the end of the course, students will be able to:
+1. Analyze the role of business analytics in management decisions.
+2. Identify and interpret basic types of business data.
+3.
+
+Apply simple descriptive analytics techniques.
+
+4.
+
+Use spreadsheet tools for basic business data analysis.
+
+5. Understand conceptual predictive analytics applications.
+6.
+
+Relate analytics applications to Finance, HR, Marketing, and Operations.
+
+7. Present basic data visualizations and business reports.
+
+Syllabus:
+
+Hours
+
+Module No. 1: Introduction to Business Analytics
+
+08
+
+Meaning of Business Analytics - Terminologies used in Business Analytics (data-driven
+decision making, KPI, Dashboard, Big Data (Hadoop), Data warehouse, Data Lake,
+structured, semi-structured and unstructured data, ETL, Business analytics Vs Business
+Intelligence) - Importance of data-driven decision making - Types of analytics: Descriptive,
+Predictive, Prescriptive, Diagnostic - Applications in business functions: Finance, HR,
+Marketing, Operations, Retail and Supply Chain.
+Module No. 2:Data Basics for Business and Descriptive Analytics
+
+12
+
+Types of Data: Qualitative & Quantitative, Data Collection methods: online/offline Surveys,
+Transactions, Interviews, Observations. Segregation into Primary and Secondary data Hands-on activity (Practical’s) - Simple data organization in tabular form using excel sheets
+- Understanding averages: Mean, Median, Mode - Percentages and Ratios in business
+decisions. - Interpreting simple business reports with bar, pie and line charts - Hands-on
+(Practical’s) using Microsoft Excel or Google Sheets with hypothetical data. Creation of
+Google forms or equivalents for online survey.
+
+Page 30 of 32
+
+Module No. 3:Business Problem Solving with Data
+
+10
+
+Identifying a business problem (Sales decline, Attrition in HR, Financial mismanagement,
+Inventory Shortage/Leakage). Formulating basic hypotheses. - Simple trend analysis using
+past data, Decision making using data
+Module No. 4: Introduction to Predictive Analytics
+
+15
+
+Prediction in business - Simple examples: Forecasting sales, Employee attrition/HR
+Planning, Seasonal demand - Role of Business Analytics tools Excel, R/Python, SQL,
+Power BI/Tableau (no coding, only concepts) - Limitations of analytics.
+Predictive Analytics in different functions (interdisciplinary)
+Finance: Cash flow analysis, Budgeting trends - HR: Employee performance and attrition
+analysis - Marketing: Sales trend and customer preference analysis - Operations: Inventory
+analysis and demand forecasting - Rural business applications (Agricultural yield
+forecasting, Market pricing trends)
+Basics of Visualization & Reporting (Practical’s)
+Importance of presenting data clearly - Creating and interpreting simple charts and tables Introduction to basic dashboard making in Excel - Simulation Hands-on activity with
+hypothetical data: Preparation of Weekly & Monthly Dashboard using excel.
+Skill Development Activities:
+1. Create flashcards or a digital quiz (Kahoot/Quizizz) where students match analytics
+terms to definitions/examples.
+2. Watch a short video (e.g., on data-driven decision-making or Hadoop) and write a
+summary of insights.
+3. Case study: How local businesses use simple analytics (example: Kirana stores,
+Agri markets, Restaurants, small local industries).
+4. Group Discussion - Topic: “Is data the new oil?” – Discuss how different industries
+use business analytics.
+5. Data Collection Practice - Create a Google Form for a short survey and collect
+responses.
+6. Organize collected survey or hypothetical data in Excel (use filters, sorting,
+formatting).
+7. Use Excel to calculate mean, median, mode, and percentages/ratios on business
+examples (e.g., sales, profit margins).
+
+Page 31 of 32
+
+Follow the Practical Exercise / case study table given below and select Skill Development
+as needed
+
+Books for Reference:
+1. Fundamentals of Business Analytics — R N Prasad &SeemaAcharya, Wiley
+2. Data Analytics Made Accessible — A. Mohammed
+3. Data Analytics Made Accessible - Anil Maheshwari 202
+4. Business Analytics Methods, Models and Decisions by James R Evans (online copy
+https://archive.org/details/businessanalytic0000evan_k8x7)
+5. Business Analytics: Data Analysis and Decision Making S. Christian Albright &
+Wayne L. Winston, Cengage Learning
+6. Data Analytics for Beginners, Richard Dorsey
+7. Business Intelligence and Analytics: Systems for Decision Support, Ramesh Sharda,
+DursunDelen, Efraim Turban, Ramesh Sharda, DursunDelen, Efraim Turban
+8. Selected YouTube Tutorials on Excel and Data Visualization (Links to be provided
+by course faculty)
+Note: Latest edition of reference books may be used.
+Page 32 of 32
+
+Name of the Program: Bachelor of Business Administration(BBA)
+Course Code: BBA 4.5
+Name of the Course: Information Technology for Business
+Course Credits
+
+No. of Hours per Week
+
+Total No. of Teaching Hours
+
+03
+
+03
+
+45
+
+Pedagogy:Classroomslecture,Casestudies,TutorialClasses,Groupdiscussion,Seminar& field
+work etc.,
+CourseOutcomes:Onsuccessfulcompletionofthecourse,thestudentswillbeableto
+a) Explain the fundamentals of information technology
+b) Analyze usage of information technology in business.
+c) Learn core concepts of computing and modern systems
+d) Applications of Excel. e) Awareness about latest information.
+Syllabus:
+
+Hours
+
+Module No. 1: Information Technology and Information System
+
+10
+
+Introduction to IT, Introduction to IS, Difference be IS and IT, Need for Information System,
+Information Systems in the Enterprise, Impact of Information Technology on Business
+(Business Data Processing, Intra and Inter Organizational communication using network
+technology, Business process and Knowledge process outsourcing), Managers and Activities
+in IS, Importance of Information systems in decision making and strategy building,
+Information systems and subsystems.
+Module No. 2: Subsystems of Information System
+
+12
+
+Transaction Processing Systems (TPS), Management Information System (MIS),
+DecisionSupport Systems (DSS), Group Decision Support System (GDSS), Executive
+InformationSystem (EIS), Expert System (ES), Features, Process, advantages and
+Disadvantages, Roleof these systems in Decision making process.
+Module No. 3: Database Management System
+
+10
+
+Introduction to Data and Information, Database, Types of Database models, Introduction to
+DBMS, Difference between file management systems and DBMS, Advantages and
+Disadvantages of DBMS, Data warehousing, Data mining, Application of DBMS,
+Introduction to MS Access, Create Database, Create Table, Adding Data, Forms in MS
+Access, Reports in MS Access.
+
+Page 33 of 32
+
+Module 4: Microsoft Excel in Business
+
+13
+
+Introduction to MS Excel, features of MS Excel, Cell reference, Format cells, Data
+Validation, Protecting Sheets, Data Analysis in Excel: Sort, Filter, Conditional Formatting,
+Preparing Charts, Pivot Table, What if Analysis(Goal Seek, Scenario manager), Financial
+Functions: NPV, PMT, PV,FV, Rate, IRR, DB,SLN,SYD. Logical Functions: IF, AND, OR,
+Mathematical Functions, and Text Functions, Lookup Functions: V Lookup, H Lookup,
+Strings.
+Skill Developments Activities:
+1. Creating Database Tables in MS Access and Entering Data
+2. Creating Forms in MS Access
+3. Creating Reports in MS Access
+4. Creating charts in Excel
+5. What if analysis in Excel
+6. Summarizing data using Pivot Table
+7. VLookup and HLookup Functions
+8. Rate of Interest Calculation using Financial Function
+9. EMI calculation using Financial Function
+10. Data Validation in Excel
+11. Sort and Filter
+12. Conditional Formatting in Excel.
+BooksforReference:
+ Laudon, K. C., &Laudon, J.P.. Management information systems: managing the
+digital firm. Fifteenth Edition. Pearson.
+ Coronel, C., & Morris, S.. Database systems: design, implementation, &
+management. Cengage Learning.
+ Olson, D. . Information systems project management (First;1; ed.). US: Business
+Expert Press.
+ Schiel, J. The ScrumMaster Study Guide. Auerbach Publications.
+ The Scrum Master Guidebook: A Reference for Obtaining Mastery" , CHANDAN
+LAL PATARY
+ Scrum: The Art of Doing Twice the Work in Half the Time", Jeff Sutherland, J.J.
+Sutherland
+ Stair, R., & Reynolds, G. Fundamentals of information systems. Cengage Learning.
+Note: Latest edition of reference books may be used.
+
+Page 34 of 32
+
+

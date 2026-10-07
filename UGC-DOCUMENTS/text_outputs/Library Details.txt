@@ -1,0 +1,274 @@
+Library and Information Centre
+Library Details-2026
+Sl.No.
+1
+2
+3
+3
+
+Current stock Qty
+3285
+754
+347
+
+4
+
+Total number of E-books
+
+-
+
+5
+6
+
+Total Number of Encyclopedia
+Total Number of Journals
+a) Indian Journals
+b) International Journals
+Magazines
+Newspapers
+Barcode reader
+
+05
+05
+3
+10
+2
+1
+
+11
+
+Accession register
+
+5
+
+12
+13
+14
+
+Issue register
+Newspaper register
+Magazine register
+
+15
+
+Question Bank
+
+16
+17
+18
+19
+20
+21
+22
+
+Tables
+Barcodes
+Due date slip
+Spring file
+Seals
+Internet facility
+Library Timings
+
+7
+1
+1
+21(MBA-4, MCA-3,
+BCom-6,
+BBA-4, BCA-4)
+10
+5000
+10 pocket
+5
+12
+yes
+9.30 am to 5.15 pm
+
+7
+8
+9
+10
+
+Librarian
+
+Library Details
+Total square feet of the Library
+Total Number of Books
+Total Number of Titles
+Total Number of Dissertation /
+Research Titles / Project Reports
+
+Computer
+
+Principal
+
+Journals
+Sl. No.
+01
+02
+03
+04
+05
+06
+
+Journals
+Journal of Advanced Research in
+Networking and Communication
+Engineering
+Journal of Advanced Research in Cloud
+Computing, Virtualization and Web
+Applications
+Journal of Advanced Research in Applied
+Artificial Intelligence and Neural network
+Arthshastra: Indian Journal of Economics
+& Research
+Journal of Management and
+Entrepreneurship
+Abhigyan
+
+Department
+MCA
+MCA
+MCA
+MBA
+MBA
+MBA
+
+E-Journal (Free)
+07
+
+IITM Journal of Business Studies
+
+MBA
+
+08
+
+JIM Quest : Journal Management and
+Technology
+
+MBA
+
+Magazines
+Sl. No.
+
+Magazines
+
+01
+
+Business Today
+
+02
+
+Competition Success review
+
+03
+
+India Today
+
+Newspaper
+Sl. No.
+
+Newspaper
+
+01
+
+Vijaya Karnataka [k]
+
+02
+
+Kannada Prabha [k]
+
+03
+
+Prajavani [k]
+
+04
+
+Mysuru Mitra [k]
+
+05
+
+Vijaya Vaani [k]
+
+06
+
+The Hindu
+
+07
+
+The Economic Times
+
+08
+
+Times of India
+
+09
+
+Business Line
+
+10
+
+Deccan Herald
+
+Library Budget
+Parivathana Business School
+Library and Information Centre
+Total Library Budget
+
+Year
+General
+MCA
+MBA
+MCA
+MBA
+MCA
+MBA
+
+Journals
+
+2026
+2025
+2024
+
+10500
+10500
+18400
+
+2023
+Total
+
+39400
+
+Books
+3190
+23500
+55000
+9486
+179253
+190000
+204000
+194354
+64185
+922968
+
+Magazine
+Library
+Grand
+&
+Automation
+Total
+Newspaper
+27120
+10688
+38000
+
+5488
+27120
+9608
+27000
+1107392
+
+38000
+
+107024
+
+
