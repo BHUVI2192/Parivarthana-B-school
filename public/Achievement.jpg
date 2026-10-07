@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="BSchool/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="BSchool/favicon.svg" />
+    <link rel="shortcut icon" href="BSchool/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="BSchool/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Parivarthana B School" />
+    <link rel="manifest" href="BSchool/site.webmanifest" />
+    
+    <!-- Primary Meta Tags -->
+    <title>Parivarthana Business School | Best Private College in Mysore | BBA, BCA, MBA, MCA, BCom Programs</title>
+    <meta name="title" content="Parivarthana Business School | Best Private College in Mysore | BBA, BCA, MBA, MCA, BCom Programs" />
+    <meta name="description" content="Parivarthana Business School (PBS) - Leading private college in Mysore, Karnataka offering BBA, BCA, BCom, MBA, MCA programs. Affiliated to University of Mysore, approved by AICTE & Karnataka Government. Quality education with 100% placement support since 2023." />
+    <meta name="keywords" content="Parivarthana Business School, PBS College Mysore, best private college in Mysore, BBA in Mysore, BCA in Mysore, MBA in Mysore, MCA in Mysore, BCom in Mysore, business school Karnataka, management college Mysore, University of Mysore affiliated colleges, AICTE approved colleges Mysore, top colleges in Mysore, best BBA college Mysore, best MBA college Mysore, Parivarthana college, Om Shrinekethana Trust, Mysore colleges, Karnataka colleges, business administration Mysore, computer applications Mysore, commerce college Mysore" />
+    <meta name="author" content="Parivarthana Business School" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <link rel="canonical" href="https://parivarthana.edu.in/BSchool/" />
+
+    <!-- Geographic Meta Tags -->
+    <meta name="geo.region" content="IN-KA" />
+    <meta name="geo.placename" content="Mysore, Karnataka" />
+    <meta name="geo.position" content="12.2958;76.6394" />
+    <meta name="ICBM" content="12.2958, 76.6394" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://parivarthana.edu.in/BSchool/" />
+    <meta property="og:site_name" content="Parivarthana Business School" />
+    <meta property="og:title" content="Parivarthana Business School | Best Private College in Mysore | BBA, BCA, MBA, MCA, BCom Programs" />
+    <meta property="og:description" content="Experience the Empowerment at PBS - Mysore's premier business school offering quality education in Management, Commerce & Computer Science. Affiliated to University of Mysore. 100% placement support. Admissions open for 2025-26." />
+    <meta property="og:image" content="https://parivarthana.edu.in/BSchool/PBS.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:locale" content="en_IN" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://parivarthana.edu.in/BSchool/" />
+    <meta name="twitter:title" content="Parivarthana Business School | Best Private College in Mysore" />
+    <meta name="twitter:description" content="Premier business school in Mysore offering BBA, BCA, MBA, MCA, BCom programs. University of Mysore affiliated. 100% placement support. Admissions open 2025-26." />
+    <meta name="twitter:image" content="https://parivarthana.edu.in/BSchool/PBS.png" />
+
+    <!-- Educational Organization Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "EducationalOrganization",
+      "@id": "https://parivarthana.edu.in/#organization",
+      "name": "Parivarthana Business School",
+      "alternateName": ["PBS College", "PBS Mysore", "Parivarthana College"],
+      "url": "https://www.parivarthanabs.edu.in/BSchool/",
+      "logo": "https://parivarthana.edu.in/BSchool/PBS.png",
+      "image": "https://parivarthana.edu.in/BSchool/building.jpg",
+      "description": "Parivarthana Business School is a leading private college in Mysore, Karnataka, offering under-graduate and post-graduate programs in Business Administration, Computer Applications, and Commerce. Affiliated to University of Mysore and approved by AICTE.",
+      "foundingDate": "2023",
+      "founder": {
+        "@type": "Person",
+        "name": "Dr. M Puttegowda"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Parivarthana Business School Campus",
+        "addressLocality": "Mysore",
+        "addressRegion": "Karnataka",
+        "postalCode": "570001",
+        "addressCountry": "IN"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-80-26613798",
+        "contactType": "Admissions",
+        "email": "info@parivarthanabschool.in",
+        "availableLanguage": ["English", "Kannada", "Hindi"]
+      },
+      "sameAs": [
+        "https://www.instagram.com/pbs_mysuru",
+        "https://www.linkedin.com/company/parivarthana-business-school/"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Academic Programs",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Course",
+              "name": "Bachelor of Business Administration (BBA)",
+              "description": "3-year under graduate program in Business Administration",
+              "provider": {
+                "@type": "EducationalOrganization",
+                "name": "Parivarthana Business School"
+              },
+              "hasCourseInstance": {
+                "@type": "CourseInstance",
+                "courseMode": "Full-time",
+                "duration": "P3Y"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Course",
+              "name": "Bachelor of Computer Applications (BCA)",
+              "description": "3-year under graduate program in Computer Applications",
+              "provider": {
+                "@type": "EducationalOrganization",
+                "name": "Parivarthana Business School"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Course",
+              "name": "Bachelor of Commerce (BCom)",
+              "description": "3-year under graduate program in Commerce",
+              "provider": {
+                "@type": "EducationalOrganization",
+                "name": "Parivarthana Business School"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Course",
+              "name": "Master of Business Administration (MBA)",
+              "description": "2-year post-graduate program in Business Administration",
+              "provider": {
+                "@type": "EducationalOrganization",
+                "name": "Parivarthana Business School"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Course",
+              "name": "Master of Computer Applications (MCA)",
+              "description": "2-year post-graduate program in Computer Applications",
+              "provider": {
+                "@type": "EducationalOrganization",
+                "name": "Parivarthana Business School"
+              }
+            }
+          }
+        ]
+      },
+      "memberOf": {
+        "@type": "Organization",
+        "name": "University of Mysore"
+      },
+      "accreditedBy": [
+        {
+          "@type": "Organization",
+          "name": "AICTE - All India Council for Technical Education"
+        },
+        {
+          "@type": "Organization",
+          "name": "Government of Karnataka"
+        }
+      ]
+    }
+    </script>
+
+    <!-- College/University Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollegeOrUniversity",
+      "name": "Parivarthana Business School",
+      "url": "https://parivarthana.edu.in/BSchool/",
+      "logo": "https://parivarthana.edu.in/BSchool/PBS.png",
+      "description": "Best private college in Mysore offering BBA, BCA, BCom, MBA, and MCA programs with 100% placement support. Affiliated to University of Mysore.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Mysore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "India"
+      },
+      "telephone": "+91-9740119888",
+      "email": "info@parivarthanabschool.in"
+    }
+    </script>
+
+    <!-- Local Business Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Parivarthana Business School",
+      "image": "https://parivarthana.edu.in/BSchool/building.jpg",
+      "priceRange": "Contact for details",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "PBS Campus",
+        "addressLocality": "Mysore",
+        "addressRegion": "Karnataka",
+        "postalCode": "570001",
+        "addressCountry": "IN"
+      },
+      "telephone": "+91-80-26613798",
+      "url": "https://parivarthana.edu.in/BSchool/",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+          "opens": "09:00",
+          "closes": "17:00"
+        }
+      ]
+    }
+    </script>
+
+    <!-- BreadcrumbList Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://parivarthana.edu.in/BSchool/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Programs",
+          "item": "https://parivarthana.edu.in/BSchool/about/pbs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Admissions",
+          "item": "https://parivarthana.edu.in/BSchool//admissions"
+        }
+      ]
+    }
+    </script>
+
+    <!-- Website Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Parivarthana Business School",
+      "url": "https://parivarthana.edu.in/BSchool/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://parivarthana.edu.in/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+
+    <!-- AI Content Discovery Meta Tags -->
+    <meta name="article:publisher" content="Parivarthana Business School" />
+    <meta name="article:section" content="Higher Education" />
+    <meta name="article:tag" content="Business Education, Management Programs, Computer Science Education, Commerce Studies, Professional Education, Career Development" />
+
+    <!-- Mobile App Meta Tags -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="PBS Mysore" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="theme-color" content="#0D225C" />
+
+    <!-- Additional SEO Meta Tags -->
+    <meta name="rating" content="General" />
+    <meta name="distribution" content="Global" />
+    <meta name="language" content="English" />
+    <meta name="revisit-after" content="7 days" />
+    <meta name="category" content="Education, Business School, College" />
+    <meta name="coverage" content="Worldwide" />
+    <meta name="target" content="Students, Parents, Education Seekers" />
+    <meta name="audience" content="Students seeking higher education in Business, Management, Computer Science, and Commerce" />
+
+    <!-- AI & LLM Optimized Meta Tags -->
+    <meta name="abstract" content="Parivarthana Business School offers comprehensive under-graduate and post-graduate programs in Business Administration, Computer Applications, and Commerce in Mysore, Karnataka. Established in 2023, affiliated to University of Mysore, approved by AICTE and Government of Karnataka." />
+    <meta name="topic" content="Higher Education, Business School, Management Education, Computer Science Education" />
+    <meta name="summary" content="PBS is Mysore's premier private business school under Om Shrinekethana Trust, offering BBA, BCA, BCom, MBA, and MCA programs with expert faculty, modern curriculum, and 100% placement support." />
+    <meta name="classification" content="Educational Institution, Business School, Higher Education" />
+    <meta name="identifier-URL" content="https://parivarthana.edu.in/" />
+    <script type="module" crossorigin src="/BSchool/assets/index-Cg0zBUKK.js"></script>
+    <link rel="stylesheet" crossorigin href="/BSchool/assets/index-DxRLQE_0.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh-oh'},{'server':'sg2plzcpnl509221'},{'dcenter':'sg2'},{'cp_id':'10712861'},{'cp_cl':'8'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script></html>

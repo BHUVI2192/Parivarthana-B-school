@@ -1,0 +1,60 @@
+[14-Jul-2026 00:57:56 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 00:57:59 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8913856283:AAGBVU6Ef6jrN26W9sxYHqCQNZr4nnwpaXI/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 01:01:02 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 01:01:03 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8913856283:AAGBVU6Ef6jrN26W9sxYHqCQNZr4nnwpaXI/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 19:24:18 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 19:24:19 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8913856283:AAGBVU6Ef6jrN26W9sxYHqCQNZr4nnwpaXI/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 19:25:50 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 19:25:50 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8913856283:AAGBVU6Ef6jrN26W9sxYHqCQNZr4nnwpaXI/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 19:38:37 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 19:38:38 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot8913856283:AAGBVU6Ef6jrN26W9sxYHqCQNZr4nnwpaXI/sendMessage): Failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 21:48:38 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 21:56:09 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 21:56:10 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 22:46:27 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 22:47:13 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 22:47:54 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 22:53:44 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 22:54:09 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 22:54:12 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 22:54:13 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 22:54:31 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 22:56:47 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 22:57:10 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 22:57:54 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 23:08:16 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 23:31:24 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 23:31:28 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 23:31:29 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 23:31:33 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 23:33:08 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[14-Jul-2026 23:53:36 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[15-Jul-2026 00:21:46 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[15-Jul-2026 01:25:02 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[15-Jul-2026 04:36:51 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[15-Jul-2026 11:20:00 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[15-Jul-2026 11:20:03 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[15-Jul-2026 11:20:05 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[15-Jul-2026 11:20:05 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[15-Jul-2026 15:02:00 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[15-Jul-2026 16:53:25 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[15-Jul-2026 17:19:57 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[15-Jul-2026 17:20:36 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[15-Jul-2026 17:50:46 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[15-Jul-2026 19:42:36 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[16-Jul-2026 18:46:00 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[16-Jul-2026 18:54:20 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[16-Jul-2026 20:09:41 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[16-Jul-2026 20:25:50 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[16-Jul-2026 23:29:40 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[17-Jul-2026 01:04:06 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[17-Jul-2026 04:52:54 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[22-Jul-2026 02:02:19 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[22-Jul-2026 02:12:18 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[23-Jul-2026 01:04:34 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
+[23-Jul-2026 01:04:36 UTC] PHP Notice:  file_get_contents(): Content-type not specified assuming application/x-www-form-urlencoded in /home/yzgkl6pc04g2/public_html/wp-adobe/bnd/complete.php on line 34
